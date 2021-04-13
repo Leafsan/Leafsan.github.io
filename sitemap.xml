@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://leafsan.github.io/posts/firstpost/</loc>
+<lastmod>2021-04-14T01:44:08+09:00</lastmod>
+</url>
+<url>
+<loc>https://leafsan.github.io/categories/</loc>
+<lastmod>2021-04-14T01:57:17+09:00</lastmod>
+</url>
+<url>
+<loc>https://leafsan.github.io/tags/</loc>
+<lastmod>2021-04-14T01:57:17+09:00</lastmod>
+</url>
+<url>
+<loc>https://leafsan.github.io/archives/</loc>
+<lastmod>2021-04-14T01:57:17+09:00</lastmod>
+</url>
+<url>
+<loc>https://leafsan.github.io/about/</loc>
+<lastmod>2021-04-14T01:57:17+09:00</lastmod>
+</url>
+<url>
+<loc>https://leafsan.github.io/</loc>
+</url>
+<url>
+<loc>https://leafsan.github.io/tags/game-development/</loc>
+</url>
+<url>
+<loc>https://leafsan.github.io/categories/blogging/</loc>
+</url>
+<url>
+<loc>https://leafsan.github.io/categories/development/</loc>
+</url>
+</urlset>
