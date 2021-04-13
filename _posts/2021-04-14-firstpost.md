@@ -2,7 +2,7 @@
 title: First Post
 author: Wookyung Choi
 date: 2021-04-14 00:26:00 +0900
-categories: [Blogging, Develop]
+categories: [Blogging, Development]
 tags: [game development]
 pin: true
 ---
